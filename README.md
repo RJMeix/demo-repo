@@ -7,3 +7,4 @@ This is my first github repo!
 
 Cool!
 
+Changed from private to public.
